@@ -17,8 +17,8 @@ import (
 
 	"github.com/Sirupsen/logrus"
 	rcon "github.com/galexrt/go-rcon"
-	"github.com/galexrt/srcds_exporter/collector"
-	"github.com/galexrt/srcds_exporter/connector"
+	"imobilis/go/srcds/collector"
+	"imobilis/go/srcds/connector"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/prometheus/common/version"

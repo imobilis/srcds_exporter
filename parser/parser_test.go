@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/galexrt/srcds_exporter/parser/models"
+	"imobilis/go/srcds/parser/models"
 )
 
 var parseHostnameTests = []struct {

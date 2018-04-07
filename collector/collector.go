@@ -1,7 +1,7 @@
 package collector
 
 import (
-	"github.com/galexrt/srcds_exporter/connector"
+	"imobilis/go/srcds/connector"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

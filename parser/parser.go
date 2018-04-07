@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/galexrt/srcds_exporter/parser/models"
+	"imobilis/go/srcds/parser/models"
 )
 
 var (

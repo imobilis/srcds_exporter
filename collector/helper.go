@@ -3,7 +3,7 @@ package collector
 import (
 	"log"
 
-	"github.com/galexrt/srcds_exporter/connector"
+	"imobilis/go/srcds/connector"
 )
 
 func getConnections() map[string]*connector.Connection {
